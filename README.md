@@ -10,12 +10,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in **Distributed Systems**, **High-Throughput Microservices**, and resilient backend architectures.
+I am a **Software Engineer** specializing in **Distributed Systems**, **High-Throughput Microservices**, and resilient cloud architectures.
 
 - 💼 **Current Role**: Software Engineer at **Sony India Software Centre**
-- 🔭 **Focus Areas**: Scalable backend architectures, event-driven pipelines, low-latency microservices, and system design
-- 🛠️ **Core Expertise**: Designing enterprise-grade services with **Java**, **Spring Boot**, **Kafka**, and **Redis**
-- 💬 **Ask Me About**: Distributed caching, messaging architectures, API performance tuning, and clean code principles
+- 🔭 **Focus Areas**: Scalable backend architectures, event-driven streaming, low-latency microservices, and system resilience
+- 🛠️ **Core Expertise**: Enterprise services built with **Java 17/21**, **Spring Boot**, **Apache Kafka**, **AWS**, and **Kubernetes**
+- 📱 **Hobby & Craft**: In my personal time, I enjoy building practical mobile applications—leveraging modern AI-assisted engineering—to solve real day-to-day problems and boost productivity
+- 💬 **Ask Me About**: Distributed caching, event-driven architecture (CQRS, Circuit Breakers), p99 latency optimization, and clean code
 - 📫 **Reach Out**: [danishkhan25nov@gmail.com](mailto:danishkhan25nov@gmail.com)
 
 ---
@@ -24,12 +25,17 @@ I am a **Software Engineer** specializing in **Distributed Systems**, **High-Thr
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `Java`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `Bash` |
-| **Backend & Frameworks** | `Spring Boot`, `Spring Cloud`, `Hibernate / JPA`, `RESTful APIs`, `Microservices Architecture` |
-| **Distributed Systems & Messaging** | `Apache Kafka`, `Redis`, `Event-Driven Architecture`, `Distributed Caching` |
-| **Databases** | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` |
-| **DevOps & Cloud** | `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `CI/CD`, `Linux` |
-| **Frontend** | `React`, `HTML5`, `CSS3`, `Tailwind CSS` |
+| **Languages** | `Java (17/21)`, `JavaScript`, `Python`, `SQL`, `Bash` |
+| **Backend Frameworks** | `Spring Boot`, `RESTful APIs`, `Dependency Injection`, `Microservices Architecture` |
+| **Distributed Architecture** | `Event-Driven Architecture`, `CQRS`, `Circuit Breaker`, `Distributed Caching` |
+| **Messaging & Streaming** | `Apache Kafka`, `AWS SQS`, `AWS SNS`, `JMS` |
+| **Cloud Platforms** | `AWS (EC2, S3, RDS)`, `Google Cloud (GCP)`, `Firebase` |
+| **Infrastructure & DevOps** | `Docker`, `Kubernetes`, `Helm`, `Git`, `CI/CD` |
+| **Databases & Storage** | `Apache Cassandra`, `Redis`, `PostgreSQL`, `MySQL` |
+| **Testing & Quality** | `JUnit 5`, `Mockito`, `TestNG`, `Testcontainers` |
+| **Observability & Monitoring** | `Datadog`, `Prometheus`, `Grafana`, `SonarQube` |
+| **Frontend Development** | `React`, `Material UI (MUI)`, `HTML5`, `CSS3`, `Tailwind CSS` |
+| **Build Tools** | `Maven`, `Gradle` |
 
 ---
 
