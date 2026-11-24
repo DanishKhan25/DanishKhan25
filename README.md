@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Danish Khan 👋
 
-<!--
-**DanishKhan25/DanishKhan25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com/in/danish-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:danishkhan25nov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in **Distributed Systems**, **High-Throughput Microservices**, and resilient backend architectures.
+
+- 💼 **Current Role**: Software Engineer at **Sony India Software Centre**
+- 🔭 **Focus Areas**: Scalable backend architectures, event-driven pipelines, low-latency microservices, and system design
+- 🛠️ **Core Expertise**: Designing enterprise-grade services with **Java**, **Spring Boot**, **Kafka**, and **Redis**
+- 💬 **Ask Me About**: Distributed caching, messaging architectures, API performance tuning, and clean code principles
+- 📫 **Reach Out**: [danishkhan25nov@gmail.com](mailto:danishkhan25nov@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | `Java`, `Python`, `JavaScript`, `TypeScript`, `SQL`, `Bash` |
+| **Backend & Frameworks** | `Spring Boot`, `Spring Cloud`, `Hibernate / JPA`, `RESTful APIs`, `Microservices Architecture` |
+| **Distributed Systems & Messaging** | `Apache Kafka`, `Redis`, `Event-Driven Architecture`, `Distributed Caching` |
+| **Databases** | `PostgreSQL`, `MySQL`, `MongoDB`, `Redis` |
+| **DevOps & Cloud** | `Docker`, `Kubernetes`, `Git`, `GitHub Actions`, `CI/CD`, `Linux` |
+| **Frontend** | `React`, `HTML5`, `CSS3`, `Tailwind CSS` |
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanishKhan25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Danish Khan GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishKhan25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishKhan25&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
+</p>
